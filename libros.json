@@ -1,0 +1,42 @@
+[
+  {
+    "createdAt": 1681970144713,
+    "updatedAt": 1681970144713,
+    "id": 1,
+    "name": "cien años de soledad",
+    "price": "100000",
+    "category": "novela",
+    "author": "",
+    "description": "famila enferma"
+  },
+  {
+    "createdAt": 1681970239477,
+    "updatedAt": 1681970239477,
+    "id": 2,
+    "name": "el señor de los anillos",
+    "price": "197000",
+    "category": "fantasia",
+    "author": "",
+    "description": "destrccion de un anillo"
+  },
+  {
+    "createdAt": 1681970275697,
+    "updatedAt": 1681970275697,
+    "id": 3,
+    "name": "1984",
+    "price": "20000",
+    "category": "fantasia",
+    "author": "",
+    "description": "años"
+  },
+  {
+    "createdAt": 1681970321289,
+    "updatedAt": 1681970321289,
+    "id": 4,
+    "name": "un mundo feliz",
+    "price": "50000",
+    "category": "novela",
+    "author": "",
+    "description": "amor y traicion"
+  }
+]
